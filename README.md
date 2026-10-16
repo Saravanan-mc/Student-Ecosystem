@@ -8,12 +8,18 @@
   A unified student platform combining campus services, community engagement, data management, and AI-powered knowledge retrieval.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Student--Ecosystem-blueviolet?style=for-the-badge" alt="Project"/>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Project-Student--Ecosystem-blueviolet?style=for-the-badge" alt="Student Ecosystem"/>
   <img src="https://img.shields.io/badge/AI-RAG-blue?style=for-the-badge" alt="AI and RAG"/>
   <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-Flask-black?style=for-the-badge&logo=flask" alt="Python Flask"/>
+  <img src="https://img.shields.io/badge/Python-Flask-black?style=for-the-badge&logo=flask&logoColor=white" alt="Python Flask"/>
+  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Data-JSON-black?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/AI-LLM%20Integration-8A2BE2?style=for-the-badge" alt="AI LLM Integration"/>
 </p>
 
 ## 📖 About the Project
